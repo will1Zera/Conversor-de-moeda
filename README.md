@@ -1,41 +1,31 @@
-<h1 align="center"> Employ </h1>
+<h1 align="center"> Conversor de moeda </h1>
 <p align="center">
   <a href="#tecnologias-">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sobre-">Sobre</a>
 </p>
 <p align="center"> 
-  Employ é um site de transferências internacionais que possibilita o usuário criar sua conta, logar e deslogar.
-  Também permite que mande um e-mail para mim através de um formulário de contato.
+  Apresento a vocês um conversor de moedas que converte do real para o dólar.
 </p>
 <p align="center">
-  <img src="/public/employ.gif" align="center" style="border-radius: 10px" />
+  <img src="/conversor.gif" align="center" style="border-radius: 10px" />
 </p>
-
-Link para o [servidor hospedado](https://employy.netlify.app/)
 
 ## Tecnologias 👨‍💻 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- HTML
-- Styled-components
-- Javascript
-- ReactJs
-- Framer-motion
+- CSS
+- PHP
 
 ## Sobre 📖
 
 
 ### Descrição
-Employ é um site de transferências internacionais que possibilita o usuário criar sua conta, logar e deslogar. Com ele, também é possível o usuário mandar um e-mail para mim através de um formulário de contato.
+O conversor de moeda consome uma API do Banco Central para sempre ter o câmbio do dólar atualizado no sistema.
 
 
 ### Objetivo
 Praticar conceitos aprendidos em aula. Entre eles:
 
-- Autenticação, contextAPI e hooks do React
-- Animações do Framer-motion
-- RegEx
-- Resposividade com styled-components
-- Modal com EmailJs
+- Consumir uma API
 
 
 by [William Bierhals](https://github.com/will1Zera)
